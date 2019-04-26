@@ -1,0 +1,9 @@
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\bin\Debug\AimBooster Helper.exe.config
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\bin\Debug\AimBooster Helper.exe
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\bin\Debug\AimBooster Helper.pdb
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\obj\Debug\AimBooster Helper.csprojAssemblyReference.cache
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\obj\Debug\AimBooster Helper.csproj.CoreCompileInputs.cache
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\obj\Debug\AimBooster Helper.csproj.CopyComplete
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\obj\Debug\AimBooster Helper.exe
+C:\Users\Callum Smith\source\repos\AimBooster Helper\AimBooster Helper\obj\Debug\AimBooster Helper.pdb
